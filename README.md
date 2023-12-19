@@ -20,11 +20,6 @@ To train, ```PCN_main_train.py``` To test/evaluate, run ```PCN_main_eval.py```. 
 ```
 python PCN_main_eval.py --device-name cuda:1  --data-dir /Data   --mlhdf-fn pdbbind2019_core_docking.hdf  --csv-fn vina_delta.csv   --model-path /Model_Checkpoint/PCN_a.pth
 ```
-### Pre-trained weights
-
-We trained all of the networks above on pdbbind 2019 datasets. Particularly, we used the refined set for training, and evaluated the models on the core set. Data and checkpoint files can be found in (https://drive.google.com/drive/folders/17aTy-5Epvvwcpn_Kxwn7ksyUU2EGed3g?usp=sharing).
-
-For other dataset, please contact the author. 
 
 
 ## Authors
