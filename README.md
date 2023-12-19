@@ -1,4 +1,4 @@
-# Pose Classification with 3D Atomic Network 2 (PECAN2)
+# Pose Classification with 3D Atomic Neural Network 2 (PECAN2)
 
 Identifying correct binding poses of ligands is important in docking based virtual high-throughput screening. This code implements two convolutional neural network approaches: a 3D convolutional neural network (3D-CNN) and a point cloud network (PCN) to improves virtual high-throughput screening to identify novel molecules against each target protein. The code is written in python with Pytorch.
 
