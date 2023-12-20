@@ -29,3 +29,6 @@ PECAN was created by Heesung Shim (shim2@llnl.gov)
 ## License
 
 PECAN is distributed under the terms of the MIT license. All new contributions must be made under this license. See LICENSE in this directory for the terms of the license.
+See [LICENSE](LICENSE) for more details.  
+SPDX-License-Identifier: MIT  
+LLNL-CODE-858561
